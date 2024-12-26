@@ -6,13 +6,14 @@
 
 My name is Hassan, and I am a Data Science student passionate about leveraging data for impactful solutions!
 
-''python
+```python
 class Hassan:
     def __init__(self):
         self.age = 23
         self.traits = ["inquisitive", "problem-solver", "dedicated learner"]
         self.hobbies = ["Coding", "Data Visualization", "Exploring NYC"]
         self.skills = ["Machine Learning", "Data Science", "Problem Solving", "Data Engineering", "Data Analysis", "Statistical Modeling"]
+```
 💻 I discovered my passion for data science during college and started building projects that solved real-world problems. From analyzing transportation data at the MTA to building machine learning models at CUNY Tech Prep, I aim to bring value to every team I join.
 
 ###💼 Credentials
