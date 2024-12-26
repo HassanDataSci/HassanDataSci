@@ -16,7 +16,7 @@ class Hassan:
 ```
 💻 I discovered my passion for data science during college and started building projects that solved real-world problems. From analyzing transportation data at the MTA to building machine learning models at CUNY Tech Prep, I aim to bring value to every team I join.
 
-###💼 Credentials
+💼 Credentials
 	•	Experience:
 	•	Data Science Intern @ MTA
 	•	Fellow @ CUNY Tech Prep (Machine Learning/Data Science)
@@ -32,7 +32,7 @@ class Hassan:
 
 
 
-# 🚀 Tech Stack
+🚀 Tech Stack
 
 ---
 
