@@ -1,4 +1,41 @@
-**Languages**
+### Hi there, My Name is Hassan 👋
+
+<hr>
+
+# 📮 About Me
+
+My name is Hassan, and I am a Data Science student passionate about leveraging data for impactful solutions!
+
+''python
+class Hassan:
+    def __init__(self):
+        self.age = 23
+        self.traits = ["inquisitive", "problem-solver", "dedicated learner"]
+        self.hobbies = ["Coding", "Data Visualization", "Exploring NYC"]
+        self.skills = ["Machine Learning", "Data Science", "Problem Solving", "Data Engineering", "Data Analysis", "Statistical Modeling"]
+💻 I discovered my passion for data science during college and started building projects that solved real-world problems. From analyzing transportation data at the MTA to building machine learning models at CUNY Tech Prep, I aim to bring value to every team I join.
+
+###💼 Credentials
+	•	Experience:
+	•	Data Science Intern @ MTA
+	•	Fellow @ CUNY Tech Prep (Machine Learning/Data Science)
+	•	Marketing & Operations Intern @ Advanced Energy Capital LLC
+	•	You can view a few of my projects here on my GitHub page!
+
+📍 What Am I Doing?
+	•	📋 Currently I am:
+	•	Building real-time data pipelines for Uber and Lyft data using Azure and Databricks
+	•	Predicting heart disease using machine learning models as part of academic research
+	•	Mentoring peers in Data Structures and Algorithms
+	•	Exploring NLP and Data Engineering projects
+
+
+
+# 🚀 Tech Stack
+
+---
+
+### **Languages**
 
 
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
