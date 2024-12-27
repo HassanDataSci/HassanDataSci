@@ -38,7 +38,9 @@ class Hassan:
 ### **Languages**
 
 
-[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev) [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev[![SQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)[![R](https://skillicons.dev/icons?i=r&theme=dark)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)[![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev
+[![SQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
+[![R](https://skillicons.dev/icons?i=r&theme=dark)](https://skillicons.dev)
 
 ---
 
