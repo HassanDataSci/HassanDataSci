@@ -69,4 +69,4 @@ class Hassan:
 
 
 # 📊 Stats
-https://github-readme-stats.vercel.app/api/top-langs/?username=HassanDataSci&layout=compact
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanDataSci&layout=compact)
