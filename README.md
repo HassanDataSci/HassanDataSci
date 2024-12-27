@@ -69,4 +69,4 @@ class Hassan:
 
 
 # 📊 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbasyouni10&layout=compact&exclude_repo=Olympic_Medal_Predictor_ML_Python,Flix-Movie-IOS-App,NYU-AI-School-Labs,PROJECT7-IOS101,Tasks-App)
+https://github-readme-stats.vercel.app/api/top-langs/?username=HassanDataSci&layout=compact
